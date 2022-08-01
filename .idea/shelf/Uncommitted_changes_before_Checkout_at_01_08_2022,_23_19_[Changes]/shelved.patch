@@ -1,0 +1,89 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"f9381350-a194-4636-b60e-18ac8a6e2236\" name=\"Changes\" comment=\"new file added\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/academit.iml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTML File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Cl0PWirfpX2SjXihrf4dfMVfE0\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"f9381350-a194-4636-b60e-18ac8a6e2236\" name=\"Changes\" comment=\"\" />\n      <created>1659361840032</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1659361840032</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"edit gitignore\">\n      <created>1659362511072</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659362511072</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"new file added\">\n      <created>1659363383647</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659363383647</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"new file added\">\n      <created>1659363426330</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659363426330</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"new file added\">\n      <created>1659363547768</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659363547768</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"5\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"edit gitignore\" />\n    <MESSAGE value=\"new file added\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"new file added\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3bfb107b6babdfcef751477963d2764d576d09c0)
++++ b/.idea/workspace.xml	(date 1659384909904)
+@@ -1,13 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="f9381350-a194-4636-b60e-18ac8a6e2236" name="Changes" comment="new file added">
+-      <change afterPath="$PROJECT_DIR$/.idea/academit.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="f9381350-a194-4636-b60e-18ac8a6e2236" name="Changes" comment="Changes added to the second page" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -36,14 +30,14 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -81,7 +75,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1659363547768</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="first page added">
++      <created>1659384770999</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1659384770999</updated>
++    </task>
++    <task id="LOCAL-00006" summary="Second page added">
++      <created>1659384805646</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1659384805646</updated>
++    </task>
++    <task id="LOCAL-00007" summary="Changes added to the second page">
++      <created>1659384904468</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1659384904468</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -98,6 +113,9 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="edit gitignore" />
+     <MESSAGE value="new file added" />
+-    <option name="LAST_COMMIT_MESSAGE" value="new file added" />
++    <MESSAGE value="first page added" />
++    <MESSAGE value="Second page added" />
++    <MESSAGE value="Changes added to the second page" />
++    <option name="LAST_COMMIT_MESSAGE" value="Changes added to the second page" />
+   </component>
+ </project>
+\ No newline at end of file
